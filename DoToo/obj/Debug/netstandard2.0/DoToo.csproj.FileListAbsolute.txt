@@ -1,0 +1,16 @@
+/Users/jonathanpang/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/DoToo.deps.json
+/Users/jonathanpang/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/DoToo.dll
+/Users/jonathanpang/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/ref/DoToo.dll
+/Users/jonathanpang/Projects/DoToo/DoToo/bin/Debug/netstandard2.0/DoToo.pdb
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.csprojAssemblyReference.cache
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.AssemblyInfoInputs.cache
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.AssemblyInfo.cs
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.csproj.CoreCompileInputs.cache
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.dll
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/ref/DoToo.dll
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.pdb
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/Views/ItemView.xaml.g.cs
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/Views/MainView.xaml.g.cs
+/Users/jonathanpang/Projects/DoToo/DoToo/obj/Debug/netstandard2.0/DoToo.csproj.Fody.CopyLocal.cache

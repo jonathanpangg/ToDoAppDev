@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{C7363BA2-8ECA-45CF-A345-73B704F706BF}|Default">
+  <MonoDevelop.Ide.ItemProperties.DoToo.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.C1083BDF-957F-4E61-ABAF-21451198DB96" />
+  <MonoDevelop.Ide.ItemProperties.DoToo.Android FirstBuild="True" PreferredExecutionTarget="Android.Pixel_2_API_30" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DoToo/App.xaml">
+    <Files>
+      <File FileName="DoToo/Repositories/ITodoItemRepository.cs" Line="6" Column="11" />
+      <File FileName="DoToo/Repositories/TodoItemRepository.cs" />
+      <File FileName="DoToo/ViewModels/ViewModel.cs" />
+      <File FileName="DoToo/ViewModels/TodoItemViewModel.cs" />
+      <File FileName="DoToo/ViewModels/MainViewModel.cs" Line="27" Column="6" />
+      <File FileName="DoToo/ViewModels/ItemViewModel.cs" Line="19" Column="12" />
+      <File FileName="DoToo/App.xaml.cs" Line="13" Column="35" />
+      <File FileName="DoToo/Models/TodoItem.cs" />
+      <File FileName="DoToo/Bootstrapper.cs" />
+      <File FileName="DoToo.iOS/Bootstrapper.cs" />
+      <File FileName="DoToo/Views/ItemView.xaml" Line="19" Column="1" />
+      <File FileName="DoToo/Views/ItemView.xaml.cs" Line="10" Column="16" />
+      <File FileName="DoToo/Views/MainView.xaml.cs" Line="3" Column="22" />
+      <File FileName="DoToo/Views/MainView.xaml" Line="35" Column="21" />
+      <File FileName="DoToo.iOS/AppDelegate.cs" Line="6" Column="13" />
+      <File FileName="DoToo/App.xaml" Line="8" Column="15" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DoToo" expanded="True">
+            <Node name="DoToo" expanded="True">
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="ViewModels" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="ItemView.xaml" expanded="True" />
+                <Node name="MainView.xaml" expanded="True" />
+              </Node>
+              <Node name="App.xaml" expanded="True" selected="True" />
+            </Node>
+            <Node name="DoToo.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
